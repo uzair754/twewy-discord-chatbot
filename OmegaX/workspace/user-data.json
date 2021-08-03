@@ -1,0 +1,15 @@
+{
+  "Version": "1.0.0a",
+  "Options": {
+    "UnlockFPS": false,
+    "AutoAttach": false,
+    "AutoExecute": true,
+    "AutoRefresh": true,
+    "MultiRoblox": false,
+    "ClearPrompt": true,
+    "ClosePrompt": true,
+    "DragDropFile": true,
+    "AutoJoin": true,
+    "Transparency": false
+  }
+}
